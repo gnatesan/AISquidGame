@@ -1,0 +1,12 @@
+ggn2104
+ax2156
+hf2442
+
+Group Name: Squidology
+
+
+Contributions:
+
+Austin: Heuristic for move function, move expectminimax
+Gokul: Heuristic for throw function, throw expectminimax, integrating the code together and testing against AI players
+Harold: coding AI opponents to test code against
